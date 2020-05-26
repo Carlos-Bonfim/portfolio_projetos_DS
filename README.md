@@ -5,7 +5,7 @@
 </p>
 
 # Carlos Alberto Bonfim
-<sub>*Engenheiro da Qualidade na EMBRAER SA e Estudante de DATA SCIENCE*</sub>
+<sub>*Engenheiro da Qualidade na EMBRAER SA e Praticante de DATA SCIENCE*</sub>
 
 Minha experiência com ferramentas de Qualidade em Produção de Produtos Aeronáuticos, relacionado à estatística, em aplicações e monitoramento de CEP (Controle Estatístico de Processo), DOE (Delineamento de Experimentos), aplicação de MSA (Análise de sistema de medição), também trabalho com análise de dados para mitigação de riscos e priorização para análise de causa raiz com aplicação de resolução de problemas com método científico, além de participação e coordenação de Projetos Kaizens.
 
