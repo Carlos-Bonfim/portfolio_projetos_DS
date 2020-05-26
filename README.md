@@ -1,28 +1,31 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-carlosbonfim-red.svg)](https://www.linkedin.com/in/carlos-alberto-bonfim-15899b22/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Carlos-Bonfim/portfolio_projetos_DS/issues)
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Carlos Alberto Bonfim
+<sub>*Engenheiro da Qualidade na EMBRAER SA e Estudante de Data Science*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Minha experiência com ferramentas de Qualidade em Produção de Produtos Aeronáuticos, relacionado à estatística, em aplicações e monitoramento de CEP (Controle Estatístico de Processo), DOE (Delineamento de Experimentos), aplicação de MSA (Análise de sistema de medição), também trabalho com análise de dados para mitigação de riscos e priorização para análise de causa raiz com aplicação de resolução de problemas com método científico, além de participação e coordenação de Projetos Kaizens.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Trabalho com uso da linguagem Python criando scripts para automatização de coleta de dados no ambiente SAP, pré-processamento dos dados e visualização, com uso das bibliotecas matplotlib, seaborn, bokeh e streamlit. Além de criação e design de dashboards com excel e utilização de ferramentas de self-service-bi (power query para automatizar rotinas) e Power BI.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Aplicação prática de Data Science (resumo):
+Uma etapa de um projeto necessitava agrupar os problemas com base na descrição e utilizei NLP (Processamento de Linguagem Natural) com NLTK, foram feitas duas tentativas: na primeira utilizei o algoritmo kmean para um aprendizado não supervisionado e o resultado não foi satisfatório e na segunda tentativa partimos para o modelo supervisionado, no qual solicitei aos colegas de equipe que ajudassem a rotular os problemas e após testar alguns modelos, o Random Forest obteve a melhor performance com 90% em média tendo em produção uma performance média de 88%.
+
+Minha formação é em Engenharia de Produção pela UNIARA (Universidade de Araraquara) e Formação Cientista de Dados da Data Science Academy. Tenho diversos cursos relacionados à data science com destaque ao curso do Cientista de Dados Mario Filho (Como Criar uma Solução Completa de Data Science).
+
+**Experiência em:** Python, Machine Learning, Power BI.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/carlos-alberto-bonfim-15899b22/)
 
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Prevendo Valores de Imóveis em Boston:** https://bit.ly/3ek1NdR
 
 
 ---
