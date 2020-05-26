@@ -5,7 +5,7 @@
 </p>
 
 # Carlos Alberto Bonfim
-<sub>*Engenheiro da Qualidade na EMBRAER SA e Estudante de Data Science*</sub>
+<sub>*Engenheiro da Qualidade na EMBRAER SA e Estudante de DATA SCIENCE*</sub>
 
 Minha experiência com ferramentas de Qualidade em Produção de Produtos Aeronáuticos, relacionado à estatística, em aplicações e monitoramento de CEP (Controle Estatístico de Processo), DOE (Delineamento de Experimentos), aplicação de MSA (Análise de sistema de medição), também trabalho com análise de dados para mitigação de riscos e priorização para análise de causa raiz com aplicação de resolução de problemas com método científico, além de participação e coordenação de Projetos Kaizens.
 
@@ -26,6 +26,9 @@ Minha formação é em Engenharia de Produção pela UNIARA (Universidade de Ara
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Prevendo Valores de Imóveis em Boston:** https://bit.ly/3ek1NdR
-
-
+* **Webapp para prever a Qualidade de vinho:** https://bit.ly/3d61gfr
+* **EDA e Séries temporais para reclamações do consumidor:** https://bit.ly/2A8xLuM
+* **Previsão de aluguéis de imóveis:** https://bit.ly/3d0TIdM
+* **Previsão de rotatividade de clientes (churn):** https://bit.ly/2THRNmH
+* **Previsão de alugúeis de bikes:** https://bit.ly/2zxxa5X
 ---
