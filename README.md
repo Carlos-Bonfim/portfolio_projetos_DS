@@ -9,12 +9,12 @@
 
 Minha experiência com ferramentas de Qualidade em Produção de Produtos Aeronáuticos, relacionado à estatística, em aplicações e monitoramento de CEP (Controle Estatístico de Processo), DOE (Delineamento de Experimentos), aplicação de MSA (Análise de sistema de medição), também trabalho com análise de dados para mitigação de riscos e priorização para análise de causa raiz com aplicação de resolução de problemas com método científico, além de participação e coordenação de Projetos Kaizens.
 
-Trabalho com uso da linguagem Python criando scripts para automatização de coleta de dados no ambiente SAP, pré-processamento dos dados e visualização, com uso das bibliotecas matplotlib, seaborn, bokeh e streamlit. Além de criação e design de dashboards com excel e utilização de ferramentas de self-service-bi (power query para automatizar rotinas) e Power BI.
+Trabalho com uso da linguagem **Python** criando scripts para automatização de coleta de dados no ambiente SAP, **pré-processamento dos dados e visualização**, com uso das bibliotecas matplotlib, seaborn, bokeh e streamlit e aplicações de **Machine Learning**. Além de criação e design de dashboards com excel e utilização de ferramentas de self-service-bi (power query para automatizar rotinas) e **Power BI**.
 
-Aplicação prática de Data Science (resumo):
+**Aplicação prática de Data Science (resumo):**
 Uma etapa de um projeto necessitava agrupar os problemas com base na descrição e utilizei NLP (Processamento de Linguagem Natural) com NLTK, foram feitas duas tentativas: na primeira utilizei o algoritmo kmean para um aprendizado não supervisionado e o resultado não foi satisfatório e na segunda tentativa partimos para o modelo supervisionado, no qual solicitei aos colegas de equipe que ajudassem a rotular os problemas e após testar alguns modelos, o Random Forest obteve a melhor performance com 90% em média tendo em produção uma performance média de 88%.
 
-Minha formação é em Engenharia de Produção pela UNIARA (Universidade de Araraquara) e Formação Cientista de Dados da Data Science Academy. Tenho diversos cursos relacionados à data science com destaque ao curso do Cientista de Dados Mario Filho (Como Criar uma Solução Completa de Data Science).
+Minha formação é em **Engenharia de Produção** pela UNIARA (Universidade de Araraquara) e **Formação Cientista de Dados** da Data Science Academy. Tenho diversos cursos relacionados à data science com destaque ao curso do Cientista de Dados Mario Filho (**Como Criar uma Solução Completa de Data Science**).
 
 **Experiência em:** Python, Machine Learning, Power BI.
 
