@@ -4,19 +4,6 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Alberto Bonfim
-<sub>*Engenheiro da Qualidade na EMBRAER SA e Praticante de DATA SCIENCE*</sub>
-
-Minha experiência com ferramentas de Qualidade em Produção de Produtos Aeronáuticos, relacionado à estatística, em aplicações e monitoramento de CEP (Controle Estatístico de Processo), DOE (Delineamento de Experimentos), aplicação de MSA (Análise de sistema de medição), também trabalho com análise de dados para mitigação de riscos e priorização para análise de causa raiz com aplicação de resolução de problemas com método científico, além de participação e coordenação de Projetos Kaizens.
-
-Trabalho com uso da linguagem **Python** criando scripts para automatização de coleta de dados no ambiente SAP, **pré-processamento dos dados e visualização**, com uso das bibliotecas matplotlib, seaborn, bokeh e streamlit e aplicações de **Machine Learning**. Além de criação e design de dashboards com excel e utilização de ferramentas de self-service-bi (power query para automatizar rotinas) e **Power BI**.
-
-**Aplicação prática de Data Science (resumo):**
-Uma etapa de um projeto necessitava agrupar os problemas com base na descrição e utilizei NLP (Processamento de Linguagem Natural) com uso da biblioteca NLTK, foram feitas duas tentativas: na primeira utilizei o algoritmo kmeans para um aprendizado não supervisionado e o resultado não foi satisfatório e na segunda tentativa partimos para o modelo supervisionado, no qual solicitei aos colegas de equipe que ajudassem a rotular os problemas e após testar alguns modelos, o Random Forest obteve a melhor performance com 90% em média tendo em produção uma performance média de 88%.
-
-Minha formação é em **Engenharia de Produção** pela UNIARA (Universidade de Araraquara) e **Formação Cientista de Dados** da Data Science Academy. Tenho diversos cursos relacionados à data science com destaque ao curso do Cientista de Dados Mario Filho (**Como Criar uma Solução Completa de Data Science**).
-
-**Experiência em:** Python para análises de dados, Machine Learning, Power BI.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlos-alberto-bonfim-15899b22/)
@@ -31,4 +18,20 @@ Veja meus notebooks:
 * **Previsão de aluguéis de imóveis:** https://bit.ly/3d0TIdM
 * **Previsão de rotatividade de clientes (churn):** https://bit.ly/2THRNmH
 * **Previsão de alugúeis de bikes:** https://bit.ly/2zxxa5X
+
+_______________________________________________________________________________________________________________________________________
+## Sobre mim:
+Carlos Alberto Bonfim
+<sub>*Engenheiro da Qualidade na EMBRAER SA e Praticante de DATA SCIENCE*</sub>
+
+Minha experiência com ferramentas de Qualidade em Produção de Produtos Aeronáuticos, relacionado à estatística, em aplicações e monitoramento de CEP (Controle Estatístico de Processo), DOE (Delineamento de Experimentos), aplicação de MSA (Análise de sistema de medição), também trabalho com análise de dados para mitigação de riscos e priorização para análise de causa raiz com aplicação de resolução de problemas com método científico, além de participação e coordenação de Projetos Kaizens.
+
+Trabalho com uso da linguagem **Python** criando scripts para automatização de coleta de dados no ambiente SAP, **pré-processamento dos dados e visualização**, com uso das bibliotecas matplotlib, seaborn, bokeh e streamlit e aplicações de **Machine Learning**. Além de criação e design de dashboards com excel e utilização de ferramentas de self-service-bi (power query para automatizar rotinas) e **Power BI**.
+
+**Aplicação prática de Data Science (resumo):**
+Uma etapa de um projeto necessitava agrupar os problemas com base na descrição e utilizei NLP (Processamento de Linguagem Natural) com uso da biblioteca NLTK, foram feitas duas tentativas: na primeira utilizei o algoritmo kmeans para um aprendizado não supervisionado e o resultado não foi satisfatório e na segunda tentativa partimos para o modelo supervisionado, no qual solicitei aos colegas de equipe que ajudassem a rotular os problemas e após testar alguns modelos, o Random Forest obteve a melhor performance com 90% em média tendo em produção uma performance média de 88%.
+
+Minha formação é em **Engenharia de Produção** pela UNIARA (Universidade de Araraquara) e **Formação Cientista de Dados** da Data Science Academy. Tenho diversos cursos relacionados à data science com destaque ao curso do Cientista de Dados Mario Filho (**Como Criar uma Solução Completa de Data Science**).
+
+**Experiência em:** Python para análises de dados, Machine Learning, Power BI.
 ---
