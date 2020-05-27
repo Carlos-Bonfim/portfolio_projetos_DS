@@ -16,7 +16,7 @@ Uma etapa de um projeto necessitava agrupar os problemas com base na descrição
 
 Minha formação é em **Engenharia de Produção** pela UNIARA (Universidade de Araraquara) e **Formação Cientista de Dados** da Data Science Academy. Tenho diversos cursos relacionados à data science com destaque ao curso do Cientista de Dados Mario Filho (**Como Criar uma Solução Completa de Data Science**).
 
-**Experiência em:** Python, Machine Learning, Power BI.
+**Experiência em:** Python para análises de dados, Machine Learning, Power BI.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carlos-alberto-bonfim-15899b22/)
