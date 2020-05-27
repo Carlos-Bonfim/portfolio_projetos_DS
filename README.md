@@ -26,7 +26,7 @@ Minha formação é em **Engenharia de Produção** pela UNIARA (Universidade de
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Prevendo Valores de Imóveis em Boston (webapp publicado no Heroku):** https://bit.ly/3ek1NdR
-* **Webapp para prever a Qualidade de vinho:** https://bit.ly/3d61gfr
+* **Webapp para prever a Qualidade de vinho (deploy no Heroku):** https://bit.ly/3d61gfr
 * **EDA e Séries temporais para reclamações do consumidor:** https://bit.ly/2A8xLuM
 * **Previsão de aluguéis de imóveis:** https://bit.ly/3d0TIdM
 * **Previsão de rotatividade de clientes (churn):** https://bit.ly/2THRNmH
