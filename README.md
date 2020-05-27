@@ -23,7 +23,7 @@ Minha formação é em **Engenharia de Produção** pela UNIARA (Universidade de
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja meus notebooks:
 
 * **Prevendo Valores de Imóveis em Boston (webapp publicado no Heroku):** https://bit.ly/3ek1NdR
 * **Webapp para prever a Qualidade de vinho (deploy no Heroku):** https://bit.ly/3d61gfr
