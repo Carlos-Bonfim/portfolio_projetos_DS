@@ -15,7 +15,7 @@ Veja meus notebooks:
 * **Machine Learning e Processamento de Linguagem Natural (PLN) com modelos lineares:** https://bit.ly/2Y5ANJj
 * **Prevendo futuro de preços usando facebook Prophet:** https://bit.ly/2E7XCF2
 * **AceleraDev - Desafio - criar um app para *Análise Exploratória de dados*:** https://bit.ly/3eNbB0A
-* **AceleraDev - Desafio 1 - Análise Exploratória com Pandas no dataset Black Friday:** https://bit.ly/3fxBW2M
+* **AceleraDev - Desafio - Análise Exploratória com Pandas no dataset Black Friday:** https://bit.ly/3fxBW2M
 * **Prevendo Valores de Imóveis em Boston (webapp publicado no Heroku):** https://bit.ly/3ek1NdR
 * **Webapp para prever a Qualidade de vinho (deploy no Heroku):** https://bit.ly/3d61gfr
 * **EDA e Séries temporais para reclamações do consumidor:** https://bit.ly/2A8xLuM
