@@ -9,7 +9,7 @@
 * [LinkedIn](https://www.linkedin.com/in/carlos-alberto-bonfim-15899b22/)
 
 
-## Projetos:
+## Projetos (Em revisão / atualização):
 Veja meus notebooks:
 
 * **Machine Learning e Processamento de Linguagem Natural (PLN) com modelos lineares:** https://bit.ly/2Y5ANJj
